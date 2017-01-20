@@ -1,0 +1,2 @@
+# MyAI
+Artificial Intellegence
